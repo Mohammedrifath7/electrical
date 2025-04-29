@@ -1,3 +1,5 @@
 streamlit
 groq
-requests
+matplotlib
+pandas
+python-dateutil
